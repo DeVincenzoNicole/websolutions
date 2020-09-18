@@ -1,0 +1,234 @@
+Color logo:
+#91268f violeta
+#00adef celeste
+
+
+------------------------------------ Index ---------------------------------------
+
+- Slider 
+
+DESARROLLO WEB PROFESIONAL
+Diseñamos y desarrollamos sitios web modernos y funcionales
+Utilizamos las mejores tecnologías como PHP, HTML5, CSS3 y JavaScript
+Ofrecemos promociones y presupuestos a medida 
+Contactanos y recibí una propuesta en menos de 24hs
+
+- login para clientes
+
+-------------------------- Como trabajamos ----------------------------
+
+TECNOLOGÍA
+
+Utilizamos las mejores tecnologías como PHP, HTML5, CSS3, JavaScript entre otras para desarrollar software y sitios web más funcionales.
+
+
+-------------------------- Nuestros Servicios --------------------------
+
+Dos promociones (Básico - Avanzado) que llevan al formulario de contacto y PRESUPUESTO A MEDIDA que llevan a otro formulario.
+
+Ofrecemos:
+-Maquetación y programación HTML5 + CSS3 + PHP + Javascript.
+-Respaldo de su página web.
+-Vinculación con redes sociales.
+-Hosting (alojamiento) página web en la nube.
+-Soporte 24x7 y planes de mantenimiento.
+-Subida y alta en buscadores.
+-Formulario de contacto.
+-Banner Principal animado (slider).
+-Cuentas de E-mail.
+-Google Analytics.
+-Chat Online.
+-Galería de imagenes.
+-Tutoriales para el uso.
+-Administrador de contenidos.
+-Catálogo de productos.
+-Carrito de compras.
+-Diseño Responsive.
+
+HTML Estatico
+Hasta 3 interiores
+Galería de fotos | hasta 15 fotos |
+Registro de dominio
+Cuentas de email ilimitadas
+
+
+dinamico:
+Slider de fotos/noticias
+Hasta 5 interiores
+Galerias de fotos | hasta 35 |
+Formulario de contacto
+Cuentas de email ilimitadas
+
+------------------------------------ Formulario presupuesto a medida -----------------------------
+
+Me interesa:
+- Diseño Web --------------------------------------- 1.000
+- Plan de Mantenimiento Web---------    600
+-  E-commerce / Tienda Online---------  1.500
+
+Autoadministrable:
+- Si ---------------------------------------------------------- 1.500
+- No --------------------------------------------------------    500
+
+Número de páginas:
+- Onepage ----------------------------------------------  200
+- Inicio + 4 a 6 internas ------------------------  300
+- Inicio + 7 a 10 internas ----------------------- 400
+- Inicio + 10 a 15 internas ---------------------- 500
+- Inicio + 15 o más... ------------------------------- 600
+
+Otros
+- Formulario de contacto --------------------- 200
+- Galeria de imagenes --------------------------- 300
+- Galeria de videos --------------------------------- 600
+- Vinculación a Redes Sociales ------------- 200
+
+
+Servicio de hosting y dominio 
+- Si ------------------------------------------------------------ 1.000
+- No ---------------------------------------------------------- 0
+
+
+Este formulario va a estar cargado en la base de datos, cuando el usuario envie el formulario con las opciones seleccionadas automaticamente se le enviará un e-mail con el presupuesto solicitado.
+Cargo cada opciondeservicio con su precio en una tabla de la base de datos.
+opcionservicio / precio
+ej:
+Diseño Web - 1.500
+Autoadministrable No - 200
+Numpaginas 2 - 400
+
+CONSULTA a la base de datos desde sql los precios y los suma. El resultado se envia por mail al remitente que envió el formulario.
+
+Guardar los checbox en servicio 1 2 3 4etc, que puedan estar nulos asi me carga todos los datos. lo de radio los dejo igual
+
+id_presup_solicitado , nombre_cliente, correo_cliente, presup_solicitado  
+
+
+
+
+
+
+
+
+
+
+puedo crear una tabla que tenga : Disenio, mantenimiento, tienda, autoadmin, onepage, pag_4a6 (etc), formulario, galeria_img, galeria_videos, redes, hosting. Y si se genera la variable guardo el dato "SI"
+
+------------------------------------------sección para clientes --------------------------------
+
+tendran la posibilidad de acceder a una sesion de usuario única con nombre, apellido, teléfono y correo electronico para tener un soporte directo desde la web y benificios exclusivos.
+ 
+
+-------------------------------------- noticias ----------------------------------------------------
+
+¿Qué hay que tener en cuenta para crear un sitio web?
+
+
+Es importante que tengamos en mente cómo se comportan los usuarios en internet a la hora de diseñar sitios web. De esta forma conseguiremos que le saquen el máximo partido posible al sitio. Por esta razón nosotros nos basamos en cuatro patrones básicos y fundamentales de comportamiento de los usuarios en la web:
+Los usuarios aprecian la calidad y la credibilidad. Esto quiere decir que si ven un sitio con contenido de calidad van a perdonar la presencia de publicidad y/o un diseño pobre. Este es el motivo por el que sitios web no tan bien diseñados pero con contenido de alta calidad ganan mucho tráfico con los años.
+Los usuarios no leen, escanean. Cuando miran una página web, los internautas buscan puntos de referencia que les sirvan de guía en su recorrido por el contenido de la página, por esta razón cuidamos organizar bien el contenido para que se asimile bien.
+Los usuarios web son impacientes. Cuanto menos intuitiva sea la navegación y más le cueste a un usuario obtener lo que busca, hay mas posibilidades de que abandone nuestro sitio en busca de otra opción mejor. Basados en esto los usuarios de los sitios de newWweb pueden acceder sin ningún problema y encuentran rápido lo que buscan.
+Los usuarios no siempre eligen la mejor opción. Los usuarios no siempre buscan la forma más rápida de encontrar la información, en vez de eso, escanean la página de una forma lineal, yendo secuencialmente de una sección a otra y en cuanto encuentran un enlace que parece llevarles a lo que buscan lo clickean inmediatamente. hay que tener cuidado en poner encabezados claros.
+Los usuarios siguen su intuición. En la mayoría de los casos los usuarios seguirán su instinto para moverse en el sitio web antes que leer la información que se les ofrece. Así que mejor presentemos la información en el sitio web de forma que las cosas hagan y digan lo que se espera de ellas.
+Los usuarios quieren tener el control. Los usuarios quieren ser capaces de controlar su navegador y delegar en el sitio web la presentación de la información. Por ejemplo, no quieren ventanas popups inesperadas y quieren que el botón “Back” siempre los lleve a la página anterior.
+newWweb cuida todos estos detalles, pero para asegurarnos de que se ha considerado todo, durante el periodo de revisión procuramos que personas no involucradas directamente con el desarrollo del proyecto naveguen por sí mismos y nos den su opinión de qué como sintieron la navegación del sitio.
+
+¿Por qué un sitio web es de vital importancia para las pequeñas empresas?
+
+La presencia en línea es vital para una pequeña empresa pues es un campo muy competitivo, donde las empresas que ya cuentan con un sitio web están abarcando mercados potenciales. Seguramente hay muchas empresas que ya tienen en mente hacer su página pero la mayoría no sabe cómo puede iniciar el proceso sin tener que gastar en exceso. Aquí te damos 4 puntos que debes tomar en cuenta a la hora de configurar tu sitio web:
+Competir, hoy en día el marketing digital esta posicionado como uno de los elementos más importante para vender más.
+Posicionar tu marca poniendola al alcance de los clientes potenciales que buscan productos y servicios en internet.
+Contenido dinámico, un sitio web dinámico y al día resulta más atractivo para los usuarios y a la vez les dará una razón para volver.
+Herramientas de gestión de clientes como una lista de contactos de clientes, marketing por correo electrónico, formularios de consulta personalizada- mejorarán significativamente la atención a sus clientes.
+Diseño profesional las primeras impresiones cuentan y un sitio web diseñado profesionalmente con imágenes e información atractiva marca la diferencia.
+Visibilidad, debe hacer visible su sitio web, que cada vez más personas lo visiten y la manera de hacer esto es impulsar los motores de búsqueda para que aparezca en los principales buscadores como Google.
+Todo esto da como resultado final atraer a visitantes a su página y convertirlos en clientes de pago y por lo tanto usted estaría cumpliendo con sus objetivos. Contáctenos y le haremos un plan a la medida con todos estos servicios; no pierda la oportunidad de crecer.
+
+¿Qué es el SEO y por qué lo necesito?
+
+¿De dónde surge el término SEO (Search Engine Optimization)?
+ ¿Cuál és el mejor método de atraer tráfico?
+La respuesta es simple: Los motores de búsqueda. El SEO es el posicionamiento en buscadores u optimización de motores de búsqueda es el proceso de mejorar la visibilidad de un sitio web en los resultados orgánicos de los diferentes buscadores. También es frecuente nombrarlo por su título inglés, SEO (Search Engine Optimization).
+El SEO es una de las “disciplinas” que más ha cambiado en los últimos años. Solo tenemos que fijarnos en la gran cantidad de actualizaciones que ha habido de Penguin y Panda, y cómo éstas han dado un vuelta de 180 grados a lo que se entendía por SEO hasta hace poco. Ahora con el SEO se persigue lo que el propio Matt Cutts califica como “Search Experience Optimization” o lo que es lo mismo, “todo por el usuario”.
+Aunque existen miles de factores en los que un motor de búsqueda se basa para posicionar una página u otra se podría decir que hay dos factores básicos: la autoridad y la relevancia.
+La autoridad es básicamente la popularidad de una web. Cuanto más popular sea más valiosa es la información que contiene. Este factor es el que un motor de búsqueda tiene más en cuenta dado que se basa en la propia experiencia del usuario. Cuanto más se comparta un contenido es que a más usuarios les ha parecido útil.
+La relevancia es la relación que tiene una página frente a una búsqueda dada. Esto no es simplemente que una página contenga un montón de veces el término buscado (en los comienzos era así) si no que un motor de búsqueda se basa en cientos de factores on-site para determinar esto.
+
+
+¿Te has preguntado si tu página web necesita un refresh?
+El sitio web de la empresa juega un papel muy importante para la presencia digital de cualquier marca. Por eso es crucial mantenerlo actualizado, sobre todo en estos tiempos donde el público y las tendencias cambian de manera continua.
+Quizás realizaste una actualización del sitio web de tu empresa hace sólo un par de años y te estés preguntando si necesitas hacer alguna modificación o no. Revisa las situaciones que plantearemos a lo largo de este artículo y descubre si necesitas un refresh página web.
+Tu empresa ha tenido ciertos cambios
+Tal vez hayas actualizado el logo de tu empresa o la paleta de colores de la imagen corporativa haya sufrido ciertas modificaciones. O es posible que hayas lanzado nuevos productos o servicios y tu catálogo anterior haya quedado obsoleto. También puede ser que el equipo de trabajo se haya renovado, que tengas una nueva oficina o que los datos de contacto sean diferentes de los que aparecen en tu sitio web.
+En cualquiera de estos casos, es muy importante realizar un refresh página web para que los cambios formen parte de tu presencia digital ¿Por qué? La respuesta es muy simple: cuando navegamos a través de un sitio web y descubrimos información que no está actualizada, nos llevamos una mala impresión de la marca.
+Tu sitio web es demasiado lento
+Actualmente los usuarios quieren que las páginas que visitan carguen rápidamente. Estamos acostumbrados a obtener información a velocidades cada vez mayores y ten por seguro que la mayoría abandonará tu sitio web si éste no es visible en 3 segundos o menos.
+Un sitio lento puede dañar la reputación de tu empresa y, si este es tu caso, es tiempo de optimizar o tener un nuevo sitio web que sea más veloz y ágil. Si tu sitio no carga, los internautas jamás van a explorarlo y la visibilidad de tu marca será casi nula.
+El posicionamiento SEO es deficiente
+Los sitios web deben estar diseñados de tal manera que puedan ser localizados por los buscadores. Los títulos, palabras clave, etiquetas y metadescripciones de videos, imágenes, artículos y demás contenidos, necesitan cumplir con ciertos requerimientos para aparecer en la búsqueda que realizan los usuarios. Los textos deben tener una extensión determinada para que los buscadores los identifiquen, así como incluir frases cortas y sencillas.
+Tu sitio no tiene diseño responsive
+¿Cómo se ve tu sitio desde tu teléfono inteligente? Hasta hace unos años la mayoría de las visitas online ocurrían desde un computador y el diseño se hacía conforme a este formato, pero en los últimos años, es cada vez más frecuente que los usuarios accedan a sitios web desde sus tablets y teléfonos celulares.
+Si al acceder a tu sitio web desde un teléfono u otra pantalla pequeña se ve como una versión miniatura de tu página que es incómodo para navegar y difícil o imposible de leer, entonces es urgente actualizar diseño web responsive para que se adapte a cualquier dispositivo.
+El diseño es anticuado y poco amigable para navegar
+Cuando revisas tus métricas y descubres que la tasa de usuarios que huyen del sitio web a los pocos segundos de haber ingresado es alta, significa que necesitas actualizar diseño web. El diseño debe estar pensado para mejorar la experiencia del usuario y debe facilitar la navegación a través del sitio: recuerda que no debe tomarte más de 3 clics para llegar a cualquier destino dentro del sitio web.
+Tienes contenidos viejos o poco interesantes
+Cuando se registra poco tráfico en la web, puede ser porque tus contenidos son demasiado antiguos. Es muy decepcionante entrar en un sitio y descubrir que no hay ninguna novedad desde hace meses.
+Si actualizas continuamente el sitio pero aún así se registra poco tráfico, puede que los contenidos no estén llegando al público deseado. Es importante hacer una segmentación de tus posibles lectores y crear contenidos que sean interesantes para ellos. Un contenido exitoso atraerá tráfico al nuevo sitio web y además podrá viralizarse en las redes sociales, lo que se traduce en una mayor presencia de marca y más posibilidades de obtener conversiones y leads.
+Si te identificas con una o más de estas afirmaciones, significa que tu página necesita un refresh y deberás invertir en tu diseño web. No olvides tomar en cuenta la retroalimentación de los usuarios y poner especial énfasis a los comentarios negativos, por ejemplo, si uno o más usuarios hacen un llamado de atención sobre la lentitud o dificultad para navegar en el sitio, significa que algo no está funcionando y deberás hacer los cambios pertinentes para mejorar la experiencia del cliente.
+
+¿Qué es y para que sirve el Responsive Design?
+El Responsive Design o diseño adaptativo, es la técnica que se usa en la actualidad para tener una misma web adaptada a las diferentes plataformas que nos brinda la tecnología: ordenador, tablet y Smartphone.
+Consiste en una serie de hojas de estilo en CSS3, que usando el atributo “mediaquery” convierten una web ordinaria en una web multiplataforma capaz de adaptarse a todos los tamaños que existen, ofreciendo una experiencia para el usuario mucho más amena y cubriendo las necesidades de nuestro público. Atrás quedan las webs que vistas en un Smartphone se tenían que ampliar para poder leer algo.
+¿Por qué tu web debería ser Responsive?
+Las ventajas del Responsive Design son muchas y leyendo cuales son, seguro que te
+convences para convertir tu web en una web multiplataforma:
+Mejor experiencia de usuario. Eso repercute en la opinión que los usuarios tienen de tu sitio web y el uso que le darán a ella. Mejorará tanto tu imagen de marca como el tiempo de permanencia en la web y aumentará la tasa de rebote entre páginas de tu web.
+Se acabaron los contenidos duplicados. Si usabas una versión móvil para que los usuarios que accedían a tu web vieran el contenido adaptado al dispositivo, era perjudicial para tu SEO, ya que eso creaba contenido duplicado y por lo tanto Google penalizaba a tu web. Un diseño Responsive evita este problema ya que es el mismo contenido que se organiza de manera distinta según el dispositivo en el que se vea.
+Se reducen los costes de desarrollo y mantenimiento de la web. Al usar la misma plantilla para todas las plataformas, se reduce la inversión en mantenimiento y desarrollo, ya que un sólo cambio repercute en todas las versiones.
+Aumenta la viralidad. Un reciente estudio certifica que el 70% de los accesos a las redes sociales se hacen a través de dispositivos móviles, eso significa que si un usuario accede a nuestra web a través de un Smartphone, seguramente tenga las aplicaciones sociales abiertas y si quiere compartir algo, es mucho más rápido y natural.
+
+
+
+Hoy en día, para cualquier empresa, tener un sitio web es prácticamente obligatorio y aunque el uso que le de cada compañía puede variar, aprovechando en mayor o menor medida las herramientas que hoy ofrece el mundo digital, hay ciertos aspectos básicos, sobre el dominio y el hospedaje o hosting, que se deben tomar en cuenta si queremos que el desempeño de nuestro sitio sea el deseado.
+
+Primero lo primero, ¿qué es un dominio y qué es un hosting? aquí lo explicamos brevemente:
+
+Dominio:
+
+Un dominio o nombre de dominio es el nombre que identifica un sitio web. Cada dominio tiene que ser único en Internet. Un dominio se basa en extensiones.  
+
+.com .net .org .co.cr .cr son algunas de las más utilizadas en nuestro país.
+
+Hospedaje web:
+
+El hospedaje web consiste en alquilar un espacio en una computadora, de manera que cuando alguien en Internet envíe un correo a alguna dirección que termine en @suempresa.com, o cuando alguien visite www.suempresa.com, esta computadora sería la encargada de recibir ese correo y almacenarlo, o bien, de responder al llamado de www.suempresa.com y permitir que un visitante de su sitio web pueda verlo y tener acceso a la información.
+
+Nuestro encargado del departamento de hosting David Castillo nos cuenta siete aspectos que debemos tomar en cuenta a la hora de elegir un dominio y un hosting.
+
+1.Que la extensión sea conocida:
+
+Muchos usuarios no están informados de que existe una gran diversidad de extensiones y les puede sonar raro, o pueden interpretar como una página falsa si ven que tiene una extensión diferente o poco usual. Por ende usar un .com .co.cr da mucha más credibilidad a la empresa.
+
+2.Que el dominio sea corto:
+
+Lógicamente, si un dominio es muy largo puede prestarse para confusiones o errores al escribirlo, no se va a recordar bien y sobre todo en móviles, va a ser mucho más difícil de ingresar en el buscador.
+
+3.Buscar siempre alternativas:  
+
+¡No hay que quedarse con la primer idea! Al buscar diferentes alternativas u opciones de dominio que tengan que ver con el nombre de nuestra empresa, puede surgir un dominio más interesante y recordable.
+
+4.Comprar el hospedaje web indicado:
+
+Es muy importante para una empresa elegir un hospedaje que soporte correos electrónicos, el servicio básico no siempre incluye la creación de correos y luego nos podemos ver limitados. Al contratar un servicio de hospedaje económico que incluya los correos, tenemos la ventaja de no incurrir en gastos adicionales más adelante.
+
+5.Conocer el espacio del hospedaje web:
+
+Si necesitáramos hacer un backup de correos y subir el sitio debemos tomar en cuenta que nos podemos quedar cortos de espacio, por lo que es preciso elegir un hospedaje web de acuerdo a las características de cada negocio.
+
+6.Saber el número de visitantes al sitio:
+
+¡Es mejor no llevarse sorpresas! Si se contrata un plan básico y el sitio web es muy visitado, puede que el servidor no tenga los recursos necesarios y el sitio no pueda responder adecuadamente en los momentos más importantes.
+
+7.Requerimientos o características técnicas del servidor:
+
+Si la empresa es grande es probable que requiera un servidor premium que tenga la capacidad de recibir muchas visitas y responder adecuadamente a los procesamientos de bases de datos. Si se trata de una microempresa por ejemplo, puede optar por un servicio más básico.  También depende de la plataforma en la que esté instalado el sitio, que va a requerir más o menos capacidad de memoria y procesador por parte del servidor.

@@ -1,0 +1,108 @@
+@font-face 
+	{
+		font-family: 'Arima'; 
+		src: url('../fuentes/ArimaMadurai-Bold.ttf');
+
+	}
+
+html, body {
+	height: 100%;
+	margin:0;
+	background-color: white;
+	font-family: 'Arima';
+	font-size: 14px;
+}
+
+#contenedor {
+	width: 960px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #BE81F7;
+	box-shadow: 10px 10px 15px #0A122A;
+
+}
+#contenido {
+	width: 100%;
+	height: auto;
+	background-color: #EFFBFB;
+}
+
+#contenido_noticias {
+	padding:20px;
+	background-color: #BE81F7;
+}
+
+
+header {
+	width: 100%;
+	height: 150px;
+	
+}
+
+h1 {
+	width: 700px;
+	height: 40px;
+	margin:0;
+	color:#FFFFFF;
+	font-size: 34px;
+	text-shadow: 0 0 15px black;
+
+}
+
+#buscador {
+	width: 250px;
+	height: 30px;
+	/*background-color: #FFFFFF;  sacar color */
+	float: right;
+}
+
+#botonera {
+	width: 700px;
+	height: 40px;
+	clear: right;
+	float: right;
+	margin-top: 40px;
+}
+
+ul.botonera_principal {
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+	float:right;
+}
+
+ul.botonera_principal li {
+	display: inline;
+}
+
+ul.botonera_principal li a {
+	display: inline-block; 
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	padding: 10px;
+	float:left;
+	border-radius: 20px;
+	margin-left: 5px;
+	
+
+}
+
+ul.botonera_principal li a.salir {
+	background-color: #666666;
+}
+
+ul.botonera_principal li a:hover {
+	font-weight: bold;
+	font-size: 22px;
+	color:black;
+	padding: 5px;
+	text-shadow: 0 0 5px black;
+
+}
+
+#modificar_imagen img {
+	width: 400px;
+	height: auto;
+}
